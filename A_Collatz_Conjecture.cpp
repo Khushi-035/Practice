@@ -3,6 +3,7 @@
 #define uint unsigned long long
 #define vi vector<int>
 #define vvi vector<vi >
+//hi it is working out here
 #define vb vector<bool>
 #define vvb vector<vb >
 #define fr(i,n) for(int i=0; i<(n); i++)
